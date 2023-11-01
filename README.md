@@ -23,10 +23,6 @@ This project demonstrates the creation of a chatbot using Python and Natural Lan
 
 
 
-## BlogPost
-For detailed overview, here is the accompanying blog titled:**[Building a Simple Chatbot in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)**
-
-
 ## Pre-requisites
 
 Before getting started with this project, ensure that you have the following prerequisites:
